@@ -1,0 +1,12 @@
+[
+ {
+  "app_name": "SPS Commerce App",
+  "client_id": "1la6epfj5q",
+  "client_secret": "my_secret_key_789",
+  "grant_type": "Authorization Code",
+  "response_type": "Code",
+  "redirect_uris": "https://staging.constacloud.com/CC110184/spscommerce.php",
+  "scopes": "all",
+  "skip_authorization": 0
+ }
+]

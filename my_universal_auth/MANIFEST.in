@@ -1,4 +1,0 @@
-include *.py
-include *.txt
-recursive-include my_universal_auth *.py
-recursive-include my_universal_auth *.json
